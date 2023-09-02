@@ -8,11 +8,11 @@
 /*
 # C++ Mini UnitTest and Benchmark Library
 
-https://github.com/chai2010/cc-mini-test
+https://github.com/amarpal/cc-mini-test
 
 This package implements a C++ mini unittest and benchmark library.
 
-Talk: http://go-talks.appspot.com/github.com/chai2010/talks/chai2010-cc-mini-test-intro.slide
+Talk: http://go-talks.appspot.com/github.com/amarpal/talks/chai2010-cc-mini-test-intro.slide
 
 ## Unittest
 

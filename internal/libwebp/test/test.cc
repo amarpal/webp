@@ -231,7 +231,7 @@ void BenchStopTimer() {
 
 static void usage(int argc, char* argv[]) {
 	printf("C++ Mini UnitTest and Benchmark Library.\n");
-	printf("https://github.com/chai2010/cc-mini-test\n");
+	printf("https://github.com/amarpal/cc-mini-test\n");
 	printf("\n");
 
 	printf("Usage: %s\n", getBaseName(argv[0]));
